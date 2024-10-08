@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulo3{
+    text-align: center;
+}
+.paragrafo3{
+    position: fixed;
+    top: 120px;
+    left: 68px;
+}
+.foto2{
+    position: fixed;
+    top: 431px;
+    left: 68px;
+}

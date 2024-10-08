@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulo{
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+.carroum{
+    position: fixed;
+    top: 267px;
+    left: 187px;
+    border: 2px;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.carroum a img{
+    display: block;
+    width: 450px;
+    height: 300px;
+}
+.carrodois {
+    position: fixed;
+    top: 267px;
+    left: 735px;
+    border: 2px;
+    border-style: solid;
+    border-color: orange;
+}
+.carrodois a img{
+    display: block;
+    width: 450px;
+    height: 300px;
+}
+.carrotres{
+    position: fixed;
+    top: 267px;
+    left: 1283px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+}
+.carrotres a img{
+    display: block;
+    width: 450px;
+    height: 300px;
+}
